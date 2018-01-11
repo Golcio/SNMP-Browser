@@ -1,0 +1,13 @@
+C:\Users\Krzysztof\GitHub\SNMP-Browser\SNMP Browser\SNMP Browser\bin\Debug\SNMP Browser.exe.config
+C:\Users\Krzysztof\GitHub\SNMP-Browser\SNMP Browser\SNMP Browser\bin\Debug\SNMP Browser.exe
+C:\Users\Krzysztof\GitHub\SNMP-Browser\SNMP Browser\SNMP Browser\bin\Debug\SNMP Browser.pdb
+C:\Users\Krzysztof\GitHub\SNMP-Browser\SNMP Browser\SNMP Browser\bin\Debug\SnmpSharpNet.dll
+C:\Users\Krzysztof\GitHub\SNMP-Browser\SNMP Browser\SNMP Browser\obj\Debug\SNMP Browser.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof\GitHub\SNMP-Browser\SNMP Browser\SNMP Browser\obj\Debug\SNMP_Browser.Form1.resources
+C:\Users\Krzysztof\GitHub\SNMP-Browser\SNMP Browser\SNMP Browser\obj\Debug\SNMP_Browser.Properties.Resources.resources
+C:\Users\Krzysztof\GitHub\SNMP-Browser\SNMP Browser\SNMP Browser\obj\Debug\SNMP Browser.csproj.GenerateResource.Cache
+C:\Users\Krzysztof\GitHub\SNMP-Browser\SNMP Browser\SNMP Browser\obj\Debug\SNMP Browser.csproj.CoreCompileInputs.cache
+C:\Users\Krzysztof\GitHub\SNMP-Browser\SNMP Browser\SNMP Browser\obj\Debug\SNMP Browser.exe
+C:\Users\Krzysztof\GitHub\SNMP-Browser\SNMP Browser\SNMP Browser\obj\Debug\SNMP Browser.pdb
+C:\Users\Krzysztof\GitHub\SNMP-Browser\SNMP Browser\SNMP Browser\obj\Debug\SNMP_Browser.SettingsForm.resources
+C:\Users\Krzysztof\GitHub\SNMP-Browser\SNMP Browser\SNMP Browser\obj\Debug\SNMP_Browser.MonitorForm.resources
